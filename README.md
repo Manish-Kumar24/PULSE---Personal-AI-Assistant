@@ -114,6 +114,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Manish Kumar - [manishkumar202209@gmail.com]
+Manish Kumar - manishkumar202209@gmail.com
 
 Project Link: [https://github.com/Manish-Kumar24/PULSE---Personal-AI-Assistant](https://github.com/Manish-Kumar24/PULSE---Personal-AI-Assistant)
